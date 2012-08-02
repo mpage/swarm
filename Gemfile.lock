@@ -1,0 +1,17 @@
+GIT
+  remote: https://github.com/bkoski/array_stats
+  revision: 437dc00eca1990c9d1f0723bc010e71bf4ecb20b
+  specs:
+    array_stats (0.6.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    histogram (0.0.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  array_stats!
+  histogram
